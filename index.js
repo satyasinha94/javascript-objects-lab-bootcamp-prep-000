@@ -1,3 +1,1 @@
-function Objects () {
-var recipes = {blahbah: '1'}
-}
+var recipes = {};
